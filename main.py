@@ -1,12 +1,11 @@
-##no critisism allowed!!!!! Idk what im doing in python
-## this is my first and last python program!!!!!!!!
-
 import requests
 from bs4 import BeautifulSoup
 ## import the scraper
 import os
 import time
 
+def page2():
+    
 
 def clear():
     if os.name == 'nt':  # Windows
