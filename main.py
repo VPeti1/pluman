@@ -4,9 +4,6 @@ from bs4 import BeautifulSoup
 import os
 import time
 
-def page2():
-    
-
 def clear():
     if os.name == 'nt':  # Windows
         _ = os.system('cls')
